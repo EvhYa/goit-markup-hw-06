@@ -242,8 +242,6 @@ header {
    line-height: 1.5;
    letter-spacing: 0.04em;
    color: #ffffff;
-   /*height: 56px;*/
-
    padding: 16px 32px;
    background-color: var(--primary-brand);
    border-radius: 4px;
